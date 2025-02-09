@@ -1,0 +1,10 @@
+{
+    name: "乐3"
+    displayName: "乐3"
+    author: "chen"
+    version: "1.0.0"
+    minGameVersion: "v136"
+    hidden: false
+    description: "the worst mod"
+    //repo: "https://github.com/YourName/MyMod"
+}
